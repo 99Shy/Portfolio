@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a personal tech portfolio to showcase my skil
+This is a personal tech portfolio to showcase my skills
 
 ## Table of Contents
 
@@ -15,6 +15,7 @@ This is a personal tech portfolio to showcase my skil
 ## Project Overview
 
 Briefly describe the purpose and goals of your project.
+This project is created to catch the attention of big companies.
 
 ## Features
 
